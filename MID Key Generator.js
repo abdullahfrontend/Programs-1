@@ -1,4 +1,3 @@
-// Javascript
 function keygenerator(length) {
   const characters = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
   let result = '';
