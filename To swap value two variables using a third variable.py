@@ -1,3 +1,5 @@
+# This program swaps the values of two variables by using a temporary third variable. 
+# The third variable temporarily stores one value while the other value is exchanged.
 # Language : Python
 
 a = 2
